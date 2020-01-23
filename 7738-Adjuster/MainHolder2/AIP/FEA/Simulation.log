@@ -1,0 +1,56 @@
+﻿Study Shape Generator:1 started: 1/21/2020, 4:41:59 PM
+Number of configurations: 1
+Default mesh: 13513 elements, 24497 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1.54  on element 10842 finished: 1/21/2020, 4:42:52 PM
+Total time 0:00:53
+
+Study Shape Generator:1 started: 1/21/2020, 4:48:17 PM
+Number of configurations: 1
+Default mesh: 13513 elements, 24497 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 1/21/2020, 4:49:03 PM
+Total time 0:00:46
+
+Study Shape Generator:1 started: 1/21/2020, 4:52:54 PM
+Number of configurations: 1
+Default mesh: 13513 elements, 24497 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 1/21/2020, 4:53:44 PM
+Total time 0:00:50
+
+Study Shape Generator:1 started: 1/21/2020, 6:29:48 PM
+Number of configurations: 1
+Default mesh: 12580 elements, 22750 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1.43  on element 7628 finished: 1/21/2020, 6:30:40 PM
+Total time 0:00:52
+
+Study Shape Generator:1 started: 1/21/2020, 6:32:05 PM
+Number of configurations: 1
+Default mesh: 12580 elements, 22750 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 1/21/2020, 6:32:40 PM
+Total time 0:00:35
+
+Study Shape Generator:1 started: 1/21/2020, 6:32:52 PM
+Number of configurations: 1
+Default mesh: 12580 elements, 22750 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 1/21/2020, 6:33:22 PM
+Total time 0:00:30
+
+Study Shape Generator:1 started: 1/21/2020, 6:36:06 PM
+Number of configurations: 1
+Default mesh: 12580 elements, 22750 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 1/21/2020, 6:36:41 PM
+Total time 0:00:35
+
+Study Shape Generator:1 started: 1/21/2020, 6:41:27 PM
+Number of configurations: 1
+Default mesh: 12580 elements, 22750 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 1/21/2020, 6:42:02 PM
+Total time 0:00:35
+
