@@ -1,9 +1,18 @@
-﻿Study Lifter Study started: 2020-02-01, 3:32:45 PM
+﻿Study Lifter Study started: 2/3/2020, 9:00:41 AM
+Number of configurations: 1
+Study Lifter Study finished: 2/3/2020, 9:00:41 AM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 2/3/2020, 9:02:21 AM
 Number of configurations: 1
 Default mesh: 17781 elements, 36860 nodes
-Solution time 2.8s
-Convergence rate: 11.5%
+Convergence rate: 10.3%
 Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  2.82  on element 13593 finished: 2020-02-01, 3:33:02 PM
-Total time 0:00:17
+Study Static Analysis:1 finished: 2/3/2020, 9:02:26 AM
+Total time 0:00:05
+
+Study Static Analysis:1 started: 2/3/2020, 9:02:39 AM
+Number of configurations: 1
+Study Static Analysis:1 finished: 2/3/2020, 9:02:39 AM
+Total time 0:00:00
 
