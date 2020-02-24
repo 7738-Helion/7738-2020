@@ -1,9 +1,18 @@
-﻿Study Static Analysis:1 started: 2/23/2020, 8:01:02 PM
+﻿Study Lifter Study started: 2/24/2020, 12:25:36 PM
 Number of configurations: 1
-Default mesh: 17480 elements, 36242 nodes
-Solution time 2.7s
-Convergence rate: 9.84%
-Problem converged 
-Study        Worst Jacobian ratio :  2.82  on element 14525 finished: 2/23/2020, 8:01:16 PM
-Total time 0:00:14
+Default mesh: 16593 elements, 34370 nodes
+Solution time 2.2s
+Convergence rate: 10.2%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.68  on element 13857 finished: 2/24/2020, 12:25:48 PM
+Total time 0:00:12
+
+Study Static Analysis:1 started: 2/24/2020, 12:51:46 PM
+Number of configurations: 1
+Default mesh: 16593 elements, 34370 nodes
+Solution time 2.5s
+Convergence rate: 20%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2/24/2020, 12:51:50 PM
+Total time 0:00:04
 
