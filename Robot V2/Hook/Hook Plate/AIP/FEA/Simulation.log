@@ -1,0 +1,64 @@
+﻿Study Static Analysis:1 started: 3/10/2020, 1:36:30 PM
+Number of configurations: 1
+Default mesh: 704 elements, 1571 nodes
+Convergence rate: 33%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 3/10/2020, 1:36:32 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 3/10/2020, 1:37:31 PM
+Number of configurations: 1
+Default mesh: 713 elements, 1582 nodes
+Convergence rate: 32.2%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 3/10/2020, 1:37:33 PM
+Total time 0:00:02
+
+Study Static Analysis:2 started: 3/10/2020, 1:39:08 PM
+Number of configurations: 1
+Default mesh: 713 elements, 1582 nodes
+Convergence rate: 3.45%
+Problem converged 
+Study Static Analysis:2 finished: 3/10/2020, 1:39:09 PM
+Total time 0:00:01
+
+Study Static Analysis:2 started: 3/10/2020, 1:39:41 PM
+Number of configurations: 1
+Default mesh: 713 elements, 1582 nodes
+Convergence rate: 0%
+Problem converged 
+Study Static Analysis:2 finished: 3/10/2020, 1:39:43 PM
+Total time 0:00:02
+
+Study Static Analysis:2 started: 3/10/2020, 1:40:12 PM
+Number of configurations: 1
+Default mesh: 713 elements, 1582 nodes
+Convergence rate: 0%
+Problem converged 
+Study Static Analysis:2 finished: 3/10/2020, 1:40:13 PM
+Total time 0:00:01
+
+Study Static Analysis:2 started: 3/10/2020, 1:43:37 PM
+Number of configurations: 1
+Default mesh: 893 elements, 1923 nodes
+Convergence rate: 8.06%
+Problem converged 
+Study Static Analysis:2 finished: 3/10/2020, 1:43:39 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 3/10/2020, 1:44:07 PM
+Number of configurations: 1
+Default mesh: 893 elements, 1923 nodes
+Convergence rate: 32.9%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 3/10/2020, 1:44:09 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 3/10/2020, 1:46:54 PM
+Number of configurations: 1
+Default mesh: 1004 elements, 2138 nodes
+Convergence rate: 33%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 3/10/2020, 1:46:56 PM
+Total time 0:00:02
+
